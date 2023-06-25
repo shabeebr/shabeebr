@@ -74,7 +74,7 @@ header {
 
 .home-description h1{
     font-size: 50px;
-    color: #212121;
+    color: #a69f9f;
     margin-bottom: 20px;
 }
 span{
@@ -124,7 +124,7 @@ span{
 }
 
 footer {
-  background-color: #e3e3e3;
+  background-color: #000000;
   color: #fff;
   padding: 20px;
   text-align: center;
